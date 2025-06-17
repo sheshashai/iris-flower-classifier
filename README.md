@@ -43,7 +43,8 @@ The model is trained using 4 input features:
 
 ## 🚀 How to Use
 
-Run the code in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1knpgx_yYqtCV9GSUqqPeflOwBfss0Pm4?usp=sharing)) or any Python environment with PyTorch installed:
+Run the code in [Google Colab](https://colab.research.google.com/drive/1knpgx_yYqtCV9GSUqqPeflOwBfss0Pm4?usp=sharing)
+
 
 ```bash
 # In your notebook
